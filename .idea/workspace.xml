@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b7e15ac-e63e-4cfe-894a-9931bb113a1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/information/about_us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/information/about_us.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/information/contact_us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/information/contact_us.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/services.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579026941972</updated>
       <workItem from="1579026943782" duration="12941000" />
-      <workItem from="1579238442551" duration="6397000" />
+      <workItem from="1579238442551" duration="8193000" />
     </task>
     <servers />
   </component>
@@ -185,9 +179,10 @@
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
     <state x="773" y="460" width="364" height="160" key="NewPhpFileDialog/0.28.1920.1018/1920.0.1680.1050@0.28.1920.1018" timestamp="1579145230973" />
-    <state x="1989" y="243" width="915" height="686" key="dock-window-1" timestamp="1579241852583">
-      <screen x="0" y="28" width="2944" height="1018" />
+    <state x="129" y="341" width="915" height="686" key="dock-window-1" timestamp="1579251879204">
+      <screen x="0" y="28" width="1920" height="1018" />
     </state>
+    <state x="129" y="341" width="915" height="686" key="dock-window-1/0.28.1920.1018@0.28.1920.1018" timestamp="1579251879204" />
     <state x="1989" y="243" width="915" height="686" key="dock-window-1/0.28.2944.1018@0.28.2944.1018" timestamp="1579241852583" />
     <state x="624" y="244" key="run.anything.popup" timestamp="1579068291111">
       <screen x="0" y="28" width="1920" height="1018" />
