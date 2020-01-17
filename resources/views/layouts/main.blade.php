@@ -82,25 +82,14 @@
                         SERVICES
                     </a>
                     <div class="dropdown-menu sm-menu">
-                        <a class="dropdown-item" href="sustainability.html">Sustainability & Corporate Responsibility</a>
-                        <a class="dropdown-item" href="operation.html">Operation</a>
-                        <a class="dropdown-item" href="strategy.html">Customer Strategy & Marketing</a>
-                        <a class="dropdown-item" href="#">Full Potential Transformation</a>
-                        <a class="dropdown-item" href="#">Analytics Consulting</a>
-                        <a class="dropdown-item" href="#">Risk Management Advisory</a>
-                        <a class="dropdown-item" href="#">Risk Management Consulting</a>
-                        <a class="dropdown-item" href="#">Business Development In Management Consulting</a>
-                        <a class="dropdown-item" href="#">Project Management Consulting</a>
-                        <a class="dropdown-item" href="#">Law Services</a>
-                        <a class="dropdown-item" href="#">Intellectual Property - Trademark</a>
-                        <a class="dropdown-item" href="#">Dept Collection Service</a>
-                        <a class="dropdown-item" href="#">Immigration Services</a>
-                        <a class="dropdown-item" href="#">Banking & Finance Service</a>
-                        <a class="dropdown-item" href="#">Tax Law,Planning and Dispute Settlement Service</a>
-                        <a class="dropdown-item" href="#">Conveyancing and Securities (Land Law)</a>
-                        <a class="dropdown-item" href="#">Banking & Finance Service</a>
-                        <a class="dropdown-item" href="#">Due Diligence Services</a>
-                        <a class="dropdown-item" href="#">Litigation and Alternative Dispute Resolution</a>
+                        <a class="dropdown-item" href="{!! route('service.sustainability') !!}">Sustainability & Corporate Responsibility</a>
+                        <a class="dropdown-item" href="{!! route('service.operations') !!}">Operation</a>
+                        <a class="dropdown-item" href="{!! route('service.strategy') !!}">Customer Strategy & Marketing</a>
+                        <a class="dropdown-item" href="{!! route('service.transformation') !!}">Full Potential Transformation</a>
+                        <a class="dropdown-item" href="{!! route('service.analystics_consulting') !!}">Analytics Consulting</a>
+                        <a class="dropdown-item" href="{!! route('service.risk_management') !!}">Risk Management Advisory</a>
+                        <a class="dropdown-item" href="{!! route('service.business_development') !!}">Business Development In Management Consulting</a>
+                        <a class="dropdown-item" href="{!! route('service.law_service') !!}">Law Services</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown dmenu">
@@ -108,10 +97,10 @@
                         TRAINING
                     </a>
                     <div class="dropdown-menu sm-menu">
-                        <a class="dropdown-item" href="#">Law Training</a>
-                        <a class="dropdown-item" href="#">Business Coaching Training</a>
-                        <a class="dropdown-item" href="#">Risk Management Training</a>
-                        <a class="dropdown-item" href="#">Academic or Funding Proposal Training</a>
+                        <a class="dropdown-item" href="{!! route('training.law') !!}">Law Training</a>
+                        <a class="dropdown-item" href="{!! route('training.coaching') !!}">Business Coaching Training</a>
+                        <a class="dropdown-item" href="{!! route('training.risk') !!}">Risk Management Training</a>
+                        <a class="dropdown-item" href="{!! route('training.academic') !!}">Academic or Funding Proposal Training</a>
 
                     </div>
                 </li>

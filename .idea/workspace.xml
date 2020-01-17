@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b7e15ac-e63e-4cfe-894a-9931bb113a1e" name="Default Changelist" comment="" />
+    <list default="true" id="7b7e15ac-e63e-4cfe-894a-9931bb113a1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/information/about_us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/information/about_us.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/information/contact_us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/information/contact_us.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/services.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -105,6 +116,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1WOiFz3upXK1FcZXbpJj2xWSexH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -112,17 +126,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/information" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/services" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/Http/Controllers/Information" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/services" />
+      <recent name="$PROJECT_DIR$/resources/views/training" />
       <recent name="$PROJECT_DIR$/resources/views/information" />
       <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Training" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Services" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Information" />
     </key>
   </component>
   <component name="RunManager">
@@ -153,7 +172,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579026941972</updated>
-      <workItem from="1579026943782" duration="8201000" />
+      <workItem from="1579026943782" duration="12941000" />
+      <workItem from="1579238442551" duration="6397000" />
     </task>
     <servers />
   </component>
@@ -161,18 +181,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="460" width="364" height="160" key="NewPhpFileDialog" timestamp="1579068178116">
+    <state x="773" y="460" width="364" height="160" key="NewPhpFileDialog" timestamp="1579145230973">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state x="773" y="460" width="364" height="160" key="NewPhpFileDialog/0.28.1920.1018/1920.0.1680.1050@0.28.1920.1018" timestamp="1579068178116" />
+    <state x="773" y="460" width="364" height="160" key="NewPhpFileDialog/0.28.1920.1018/1920.0.1680.1050@0.28.1920.1018" timestamp="1579145230973" />
+    <state x="1989" y="243" width="915" height="686" key="dock-window-1" timestamp="1579241852583">
+      <screen x="0" y="28" width="2944" height="1018" />
+    </state>
+    <state x="1989" y="243" width="915" height="686" key="dock-window-1/0.28.2944.1018@0.28.2944.1018" timestamp="1579241852583" />
     <state x="624" y="244" key="run.anything.popup" timestamp="1579068291111">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
     <state x="624" y="244" key="run.anything.popup/0.28.1920.1018/1920.0.1680.1050@0.28.1920.1018" timestamp="1579068291111" />
-    <state x="623" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1579068669140">
+    <state x="623" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1579145901322">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state x="623" y="251" width="672" height="678" key="search.everywhere.popup/0.28.1920.1018/1920.0.1680.1050@0.28.1920.1018" timestamp="1579068669140" />
+    <state x="623" y="251" width="672" height="678" key="search.everywhere.popup/0.28.1920.1018/1920.0.1680.1050@0.28.1920.1018" timestamp="1579145901322" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,6 +205,31 @@
           <url>file://$PROJECT_DIR$/resources/views/welcome.blade.php</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/services/strategy.blade.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/services/transformations.blade.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/services/risk_management.blade.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/services/analystics_consulting.blade.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/services/business_development.blade.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

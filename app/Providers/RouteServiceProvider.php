@@ -69,6 +69,7 @@ class RouteServiceProvider extends ServiceProvider
         ], function ($router) {
             require base_path('routes/services.php');
             require base_path('routes/information.php');
+            require base_path('routes/training.php');
             require base_path('routes/web.php');
         });
     }

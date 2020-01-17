@@ -14,13 +14,14 @@
                             <div class="icon">
                                 <span class="icon-map-o"></span>
                             </div>
-                            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+                            <p><span>Address:</span> Eagt building, Boharu street, Plot number 1, Nyerere Road, Near Mkuki Mall(House), THird floor, Unit number 316</p>
                         </div>
                         <div class="col-md-4 text-center border-height py-4">
                             <div class="icon">
                                 <span class="icon-mobile-phone"></span>
                             </div>
-                            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+                            <p><span>Phone:</span> <a href="tel://1234567920">+255 682 972 591
+                                </a></p>
                         </div>
                         <div class="col-md-4 text-center py-4">
                             <div class="icon">
